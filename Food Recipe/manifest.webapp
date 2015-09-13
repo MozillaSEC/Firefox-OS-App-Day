@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "name": "Food Recipe",
+  "description": "Food Recipe",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/16.png",
+    "48": "/img/48.png",
+    "128": "/img/128.png",
+	"512":"/img/512.png"
+  },
+  "developer": {
+    "name": "Civil Dept, SEC",
+    "url": "http://sec.ac.bd"
+  },
+  "default_locale": "en"
+}
